@@ -104,24 +104,6 @@ task-trimate/
 └── README.md
 ```
 
-## Available Scripts
-
-### Backend
-
-| Command | Description |
-|---------|-------------|
-| `npm start` | Start the server |
-| `npm run dev` | Start the server with nodemon (hot reload) |
-
-### Frontend
-
-| Command | Description |
-|---------|-------------|
-| `npm run dev` | Start development server |
-| `npm run build` | Build for production |
-| `npm run preview` | Preview production build |
-| `npm run lint` | Run ESLint |
-
 ## API Endpoints
 
 | Method | Endpoint | Description |
